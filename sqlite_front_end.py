@@ -1,3 +1,9 @@
+'''
+a simple front-end for an SQLite database in Python
+
+'''
+
+
 import sqlite3
 import tkinter as tk
 
