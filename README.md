@@ -26,7 +26,7 @@ To use this script, follow these steps:
 
 3. **Run the Python Script:**
    ```bash
-   python quick_fix_script.py
+   python 'quick_fix_script.py' 
    ```
 
 ## Usage
